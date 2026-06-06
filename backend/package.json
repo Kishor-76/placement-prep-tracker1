@@ -1,0 +1,14 @@
+{
+  "name": "placement-prep-tracker-backend",
+  "version": "1.0.0",
+  "description": "Express server and Excel logger for Prep Tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2"
+  }
+}

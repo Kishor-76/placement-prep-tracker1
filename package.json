@@ -1,0 +1,11 @@
+{
+  "name": "placement-prep-tracker-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix placement-prep-tracker",
+    "build": "npm run build --prefix placement-prep-tracker",
+    "preview": "npm run preview --prefix placement-prep-tracker",
+    "install": "npm install --prefix placement-prep-tracker"
+  }
+}
