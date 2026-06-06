@@ -103,7 +103,11 @@ app.post('/api/auth/login', async (req, res) => {
   await logLogin(email, username, targetGoal || 150);
 
   if (userProfile) {
-    // Return existing user profile
+    // Update existing user profile with incoming username and targetGoal if they are provided
+    userProfile.username = username || userProfile.username;
+    userProfile.targetGoal = targetGoal || userProfile.targetGoal;
+    profiles[email.toLowerCase()] = userProfile;
+    writeJson(PROFILES_PATH, profiles);
     return res.status(200).json(userProfile);
   } else {
     // Initialize a completely new, clean 0 slate profile
