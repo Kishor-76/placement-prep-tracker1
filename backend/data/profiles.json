@@ -1,78 +1,8 @@
 {
-  "kishorgorai2004@gmail.com": {
-    "username": "Mousami Updated",
-    "email": "Kishorgorai2004@gmail.com",
-    "targetGoal": 250,
-    "xp": 2900,
-    "streak": 2,
-    "lastSolveDate": "2026-06-01",
-    "badges": [
-      "level_2_badge",
-      "level_3_badge",
-      "mock_champion"
-    ],
-    "leetcodeUsername": "",
-    "leetcodeSynced": false,
-    "leetcodeSolved": {
-      "easy": 0,
-      "medium": 0,
-      "hard": 0
-    }
-  },
   "goraikishor404@gmail.com": {
-    "username": "Anisha",
+    "username": "kishor",
     "email": "goraikishor404@gmail.com",
     "targetGoal": 150,
-    "xp": 0,
-    "streak": 0,
-    "lastSolveDate": null,
-    "badges": [],
-    "leetcodeUsername": "",
-    "leetcodeSynced": false,
-    "leetcodeSolved": {
-      "easy": 0,
-      "medium": 0,
-      "hard": 0
-    }
-  },
-  "its.kishorgorai0312@gmail.com": {
-    "username": "Kishor Gorai",
-    "email": "its.Kishorgorai0312@gmail.com",
-    "targetGoal": 150,
-    "xp": 0,
-    "streak": 0,
-    "lastSolveDate": null,
-    "badges": [],
-    "leetcodeUsername": "",
-    "leetcodeSynced": false,
-    "leetcodeSolved": {
-      "easy": 0,
-      "medium": 0,
-      "hard": 0
-    }
-  },
-  "mousamigorai2006@gmail.com": {
-    "username": "Piu",
-    "email": "mousamigorai2006@gmail.com",
-    "targetGoal": 150,
-    "xp": 1100,
-    "streak": 1,
-    "lastSolveDate": "2026-05-31",
-    "badges": [
-      "level_2_badge"
-    ],
-    "leetcodeUsername": "",
-    "leetcodeSynced": false,
-    "leetcodeSolved": {
-      "easy": 0,
-      "medium": 0,
-      "hard": 0
-    }
-  },
-  "choubeyanisha620@gmail.com": {
-    "username": "Ani",
-    "email": "choubeyanisha620@gmail.com",
-    "targetGoal": 390,
     "xp": 0,
     "streak": 0,
     "lastSolveDate": null,
