@@ -45,5 +45,139 @@
       "platform": "LeetCode",
       "link": "https://leetcode.com/problems/number-of-islands/"
     }
+  ],
+  "kishorgorai2004@gmail.com": [
+    {
+      "id": "1",
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "status": "Solved",
+      "topic": "Arrays",
+      "platform": "LeetCode",
+      "link": "https://leetcode.com/problems/two-sum/",
+      "solvedDate": "2026-06-06"
+    },
+    {
+      "id": "2",
+      "title": "Longest Palindromic Substring",
+      "difficulty": "Medium",
+      "status": "Solved",
+      "topic": "String",
+      "platform": "LeetCode",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "solvedDate": "2026-06-06"
+    },
+    {
+      "id": "3",
+      "title": "Edit Distance",
+      "difficulty": "Hard",
+      "status": "Solved",
+      "topic": "Dynamic Programming",
+      "platform": "LeetCode",
+      "link": "https://leetcode.com/problems/edit-distance/",
+      "solvedDate": "2026-06-06"
+    },
+    {
+      "id": "4",
+      "title": "Merge k Sorted Lists",
+      "difficulty": "Hard",
+      "status": "Solved",
+      "topic": "Linked List",
+      "platform": "LeetCode",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "solvedDate": "2026-06-06"
+    },
+    {
+      "id": "5",
+      "title": "Number of Islands",
+      "difficulty": "Medium",
+      "status": "Solved",
+      "topic": "Graphs",
+      "platform": "LeetCode",
+      "link": "https://leetcode.com/problems/number-of-islands/",
+      "solvedDate": "2026-06-06"
+    },
+    {
+      "title": "Find Single Source of Min weight graph tree spanning",
+      "difficulty": "Easy",
+      "status": "Todo",
+      "topic": "Arrays",
+      "platform": "HackerRank",
+      "notes": "Procedural endless algorithm log. Practice this topic: Arrays to master technical parameters.",
+      "solutionCode": "// Procedural Starter Shell\nfunction solveProblem() {\n  // Write optimal code for Arrays\n}",
+      "companyTags": [
+        "Apple",
+        "Netflix"
+      ],
+      "id": "qll5x31"
+    },
+    {
+      "title": "Find Single Source of Matrix Spiral boundary traversal",
+      "difficulty": "Easy",
+      "status": "Todo",
+      "topic": "Linked List",
+      "platform": "HackerRank",
+      "notes": "Procedural endless algorithm log. Practice this topic: Linked List to master technical parameters.",
+      "solutionCode": "// Procedural Starter Shell\nfunction solveProblem() {\n  // Write optimal code for Linked List\n}",
+      "companyTags": [
+        "Bloomberg"
+      ],
+      "id": "2xgb1qw"
+    },
+    {
+      "title": "Analyze Space Complexity for Trie prefix patterns",
+      "difficulty": "Hard",
+      "status": "Todo",
+      "topic": "Dynamic Programming",
+      "platform": "LeetCode",
+      "notes": "Procedural endless algorithm log. Practice this topic: Dynamic Programming to master technical parameters.",
+      "solutionCode": "// Procedural Starter Shell\nfunction solveProblem() {\n  // Write optimal code for Dynamic Programming\n}",
+      "companyTags": [
+        "Uber",
+        "Adobe"
+      ],
+      "id": "hvls1i7"
+    },
+    {
+      "title": "Optimize Min weight graph tree spanning",
+      "difficulty": "Medium",
+      "status": "Todo",
+      "topic": "Trees",
+      "platform": "HackerRank",
+      "notes": "Procedural endless algorithm log. Practice this topic: Trees to master technical parameters.",
+      "solutionCode": "// Procedural Starter Shell\nfunction solveProblem() {\n  // Write optimal code for Trees\n}",
+      "companyTags": [
+        "Google"
+      ],
+      "id": "gsruofk"
+    },
+    {
+      "title": "Find Single Source of Maximum sum of contiguous subarrays",
+      "difficulty": "Medium",
+      "status": "Solved",
+      "topic": "Dynamic Programming",
+      "platform": "InterviewBit",
+      "notes": "Procedural endless algorithm log. Practice this topic: Dynamic Programming to master technical parameters.",
+      "solutionCode": "// Procedural Starter Shell\nfunction solveProblem() {\n  // Write optimal code for Dynamic Programming\n}",
+      "companyTags": [
+        "Netflix",
+        "Google"
+      ],
+      "id": "nc9smft",
+      "solvedDate": "2026-06-06"
+    },
+    {
+      "title": "Analyze Space Complexity for Matrix Spiral boundary traversal",
+      "difficulty": "Easy",
+      "status": "Todo",
+      "topic": "Trees",
+      "platform": "GeeksForGeeks",
+      "notes": "Procedural endless algorithm log. Practice this topic: Trees to master technical parameters.",
+      "solutionCode": "// Procedural Starter Shell\nfunction solveProblem() {\n  // Write optimal code for Trees\n}",
+      "companyTags": [
+        "Adobe"
+      ],
+      "id": "qur5it8"
+    }
   ]
 }

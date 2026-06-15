@@ -14,5 +14,23 @@
       "medium": 0,
       "hard": 0
     }
+  },
+  "kishorgorai2004@gmail.com": {
+    "username": "Anisha ",
+    "email": "Kishorgorai2004@gmail.com",
+    "targetGoal": 150,
+    "xp": 1300,
+    "streak": 1,
+    "lastSolveDate": "2026-06-06",
+    "badges": [
+      "level_2_badge"
+    ],
+    "leetcodeUsername": "",
+    "leetcodeSynced": false,
+    "leetcodeSolved": {
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    }
   }
 }
