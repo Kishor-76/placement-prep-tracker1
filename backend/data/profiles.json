@@ -32,5 +32,21 @@
       "medium": 0,
       "hard": 0
     }
+  },
+  "its.kishorgorai404@gmail.com": {
+    "username": "ani",
+    "email": "its.kishorgorai404@gmail.com",
+    "targetGoal": 150,
+    "xp": 0,
+    "streak": 0,
+    "lastSolveDate": null,
+    "badges": [],
+    "leetcodeUsername": "",
+    "leetcodeSynced": false,
+    "leetcodeSolved": {
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
+    }
   }
 }
