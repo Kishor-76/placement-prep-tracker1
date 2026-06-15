@@ -2,7 +2,6 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
-const { logLogin, logSolve } = require('./utils/excelLogger');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -98,9 +97,6 @@ app.post('/api/auth/login', async (req, res) => {
 
   const profiles = readJson(PROFILES_PATH);
   let userProfile = profiles[email.toLowerCase()];
-
-  // Log in Excel spreadsheet instantly
-  await logLogin(email, username, targetGoal || 150);
 
   if (userProfile) {
     // Update existing user profile with incoming username and targetGoal if they are provided
@@ -208,13 +204,6 @@ app.post('/api/questions', async (req, res) => {
   questionsDb[email.toLowerCase()] = list;
   writeJson(QUESTIONS_PATH, questionsDb);
 
-  // Trigger Excel logs if newly solved
-  if (isNewlySolved) {
-    const profiles = readJson(PROFILES_PATH);
-    const user = profiles[email.toLowerCase()] || { username: 'Anonymous' };
-    await logSolve(email, user.username, question.title, question.difficulty, question.topic);
-  }
-
   return res.status(200).json(list);
 });
 
@@ -292,6 +281,5 @@ app.listen(PORT, () => {
   console.log(`===========================================`);
   console.log(`🚀 Prep Tracker Backend Server Is Online!`);
   console.log(`👉 Running locally on http://localhost:${PORT}`);
-  console.log(`📊 Spreadsheet logger armed at placement.xlsx`);
   console.log(`===========================================`);
 });
