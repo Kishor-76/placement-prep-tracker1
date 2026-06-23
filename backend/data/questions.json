@@ -185,10 +185,11 @@
       "id": "1",
       "title": "Two Sum",
       "difficulty": "Easy",
-      "status": "Todo",
+      "status": "Solved",
       "topic": "Arrays",
       "platform": "LeetCode",
-      "link": "https://leetcode.com/problems/two-sum/"
+      "link": "https://leetcode.com/problems/two-sum/",
+      "solvedDate": "2026-06-15"
     },
     {
       "id": "2",
